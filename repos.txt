@@ -1,0 +1,128 @@
+# 1trc - One Terabyte to Rebuild Civilization
+# Repository Archive List
+#
+# Format:
+#   Category lines are plain text (no leading spaces)
+#   Subcategory lines are indented with 4 spaces
+#   Repo URLs are indented under their category/subcategory
+#   Blank lines and lines starting with # are ignored
+
+Languages
+    Python
+        https://github.com/python/cpython
+	https://github.com/pypa/pip
+        https://github.com/numpy/numpy
+        https://github.com/scipy/scipy
+        https://github.com/psf/requests
+        https://github.com/django/django
+	https://github.com/pandas-dev/pandas
+	https://github.com/matplotlib/matplotlib
+	https://github.com/pyca/cryptography
+	https://github.com/dateutil/dateutil
+    C / C++
+        https://github.com/gcc-mirror/gcc
+        https://github.com/bminor/glibc
+        https://github.com/llvm/llvm-project
+	https://github.com/boostorg/boost
+	https://github.com/nlohmann/json
+	https://github.com/madler/zlib
+	https://github.com/libffi/libffi
+	https://gitlab.kitware.com/cmake/cmake
+	https://github.com/jemalloc/jemalloc
+    Rust
+        https://github.com/rust-lang/rust
+        https://github.com/rust-lang/cargo
+	https://github.com/rust-lang/rustfmt
+	https://github.com/dtolnay/anyhow
+	https://github.com/hyperium/hyper
+	https://github.com/tokio-rs/tokio
+	https://github.com/tokio-rs/mio
+	https://github.com/serde-rs/serde
+	https://github.com/marshallpierce/rust-base64
+	https://github.com/rust-random/rand
+	https://github.com/crossbeam-rs/crossbeam
+    Go
+        https://github.com/golang/go
+    JavaScript
+        https://github.com/nodejs/node
+        https://github.com/nicolo-ribaudo/tc39-proposal-iterator-helpers
+
+Operating systems
+    Linux kernel
+        https://github.com/torvalds/linux
+    NixOS
+        https://github.com/NixOS/nix
+        https://github.com/NixOS/nixpkgs
+        https://github.com/NixOS/nixos-hardware
+Tools
+    https://github.com/coreutils/coreutils
+    https://github.com/git/git
+    https://github.com/tmux/tmux
+    https://github.com/vim/vim
+
+Networking
+    Tools
+        https://github.com/wireshark/wireshark
+	https://github.com/openvpn/openvpn
+    Protocols
+        https://github.com/curl/curl
+        https://github.com/nicowillis/dns
+    Servers
+        https://github.com/openwrt/openwrt
+        https://github.com/nginx/nginx
+        https://github.com/apache/httpd
+
+Databases
+    Relational
+        https://github.com/postgres/postgres
+        https://github.com/sqlite/sqlite
+        https://github.com/mysql/mysql-server
+    NoSQL
+        https://github.com/redis/redis
+        https://github.com/mongodb/mongo
+
+Electronics & Hardware
+    https://github.com/yosyshq/yosys
+    https://github.com/riscv-software-src/riscv-isa-sim
+    CAD & Simulation
+        https://github.com/KiCad/kicad-source-mirror
+        https://github.com/openscad/openscad
+    Embedded
+        https://github.com/zephyrproject-rtos/zephyr
+        https://github.com/micropython/micropython
+
+Medicine & Biology
+    Genomics
+        https://github.com/samtools/samtools
+        https://github.com/broadinstitute/gatk
+    Imaging
+        https://github.com/InsightSoftwareConsortium/ITK
+
+Agriculture & Food
+    Modeling
+        https://github.com/DSSAT/dssat-csm-os
+        https://github.com/openfarmcc/OpenFarm
+
+Energy
+    Simulation
+        https://github.com/NREL/EnergyPlus
+        https://github.com/OpenModelica/OpenModelica
+
+AI & Machine Learning
+    Frameworks
+        https://github.com/pytorch/pytorch
+        https://github.com/tensorflow/tensorflow
+    Tools
+        https://github.com/huggingface/transformers
+        https://github.com/scikit-learn/scikit-learn
+
+Security & Cryptography
+    Libraries
+        https://github.com/openssl/openssl
+        https://github.com/libressl/portable
+    Tools
+        https://github.com/vanhauser-thc/thc-hydra
+        https://github.com/hashcat/hashcat
+
+Misc
+    https://github.com/percept-denigrate/1trc
