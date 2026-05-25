@@ -135,7 +135,6 @@ def main():
         sys.exit(0)
 
     print(f"1trc repo archiver")
-    print(f"  Source : {repo_file}")
     print(f"  Output : {output_root.resolve()}")
     print(f"  Repos  : {len(entries)}")
     if args.dry_run:

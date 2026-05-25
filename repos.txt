@@ -10,46 +10,73 @@
 Languages
     Python
         https://github.com/python/cpython
-	https://github.com/pypa/pip
+        https://github.com/python/mypy
+        https://github.com/pypa/pip
+        https://github.com/pypa/setuptools
         https://github.com/numpy/numpy
         https://github.com/scipy/scipy
+        https://github.com/urllib3/urllib3
         https://github.com/psf/requests
         https://github.com/django/django
-	https://github.com/pandas-dev/pandas
-	https://github.com/matplotlib/matplotlib
-	https://github.com/pyca/cryptography
-	https://github.com/dateutil/dateutil
+        https://github.com/pandas-dev/pandas
+        https://github.com/matplotlib/matplotlib
+        https://github.com/pyca/cryptography
+        https://github.com/dateutil/dateutil
     C / C++
         https://github.com/gcc-mirror/gcc
-        https://github.com/bminor/glibc
         https://github.com/llvm/llvm-project
-	https://github.com/boostorg/boost
-	https://github.com/nlohmann/json
-	https://github.com/madler/zlib
-	https://github.com/libffi/libffi
-	https://gitlab.kitware.com/cmake/cmake
-	https://github.com/jemalloc/jemalloc
+        https://github.com/ninja-build/ninja
+        https://github.com/bminor/glibc
+        https://github.com/libexpat/libexpat
+        https://github.com/boostorg/boost
+        https://github.com/abseil/abseil-cpp
+        https://github.com/besser82/libxcrypt
+        https://github.com/nlohmann/json
+        https://github.com/madler/zlib
+        https://github.com/libffi/libffi
+        https://github.com/mirror/make
+        https://gitlab.kitware.com/cmake/cmake
+        https://github.com/jemalloc/jemalloc
     Rust
         https://github.com/rust-lang/rust
         https://github.com/rust-lang/cargo
-	https://github.com/rust-lang/rustfmt
-	https://github.com/dtolnay/anyhow
-	https://github.com/hyperium/hyper
-	https://github.com/tokio-rs/tokio
-	https://github.com/tokio-rs/mio
-	https://github.com/serde-rs/serde
-	https://github.com/marshallpierce/rust-base64
-	https://github.com/rust-random/rand
-	https://github.com/crossbeam-rs/crossbeam
+        https://github.com/rust-lang/rustup
+        https://github.com/rust-lang/rustfmt
+        https://github.com/dtolnay/anyhow
+        https://github.com/hyperium/hyper
+        https://github.com/tokio-rs/tokio
+        https://github.com/tokio-rs/mio
+        https://github.com/serde-rs/serde
+        https://github.com/marshallpierce/rust-base64
+        https://github.com/rust-random/rand
+        https://github.com/crossbeam-rs/crossbeam
     Go
         https://github.com/golang/go
+        https://github.com/golang/tools
+        https://github.com/golang/dep
+        https://github.com/gorilla/mux
     JavaScript
         https://github.com/nodejs/node
-        https://github.com/nicolo-ribaudo/tc39-proposal-iterator-helpers
+        https://github.com/npm/cli
+        https://github.com/libuv/libuv
+        https://chromium.googlesource.com/v8/v8
+        https://github.com/webpack/webpack
+    Shell
+        https://github.com/bminor/bash
+        https://github.com/zsh-users/zsh
 
 Operating systems
-    Linux kernel
+    Linux
         https://github.com/torvalds/linux
+        https://github.com/richfelker/musl
+        https://github.com/systemd/systemd
+        https://github.com/util-linux/util-linux
+        https://github.com/wayland-project/wayland
+        https://github.com/linux-pam/linux-pam
+    Bootloaders
+        https://github.com/tianocore/edk2
+        https://github.com/coreos/grub
+        https://github.com/coreboot/coreboot
     NixOS
         https://github.com/NixOS/nix
         https://github.com/NixOS/nixpkgs
@@ -63,10 +90,12 @@ Tools
 Networking
     Tools
         https://github.com/wireshark/wireshark
-	https://github.com/openvpn/openvpn
+        https://github.com/openvpn/openvpn
     Protocols
         https://github.com/curl/curl
-        https://github.com/nicowillis/dns
+        https://github.com/isc-projects/bind9
+        https://github.com/isc-projects/dhcp
+        https://github.com/iproute2/iproute2
     Servers
         https://github.com/openwrt/openwrt
         https://github.com/nginx/nginx
@@ -84,6 +113,7 @@ Databases
 Electronics & Hardware
     https://github.com/yosyshq/yosys
     https://github.com/riscv-software-src/riscv-isa-sim
+    https://github.com/riscv/riscv-gnu-toolchain
     CAD & Simulation
         https://github.com/KiCad/kicad-source-mirror
         https://github.com/openscad/openscad
