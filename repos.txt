@@ -86,6 +86,7 @@ Tools
     https://github.com/git/git
     https://github.com/tmux/tmux
     https://github.com/vim/vim
+    https://git.ffmpeg.org/ffmpeg.git
 
 Networking
     Tools
@@ -147,12 +148,8 @@ AI & Machine Learning
         https://github.com/scikit-learn/scikit-learn
 
 Security & Cryptography
-    Libraries
-        https://github.com/openssl/openssl
-        https://github.com/libressl/portable
-    Tools
-        https://github.com/vanhauser-thc/thc-hydra
-        https://github.com/hashcat/hashcat
+    https://github.com/openssl/openssl
+    https://github.com/libressl/portable
 
 Misc
     https://github.com/percept-denigrate/1trc
